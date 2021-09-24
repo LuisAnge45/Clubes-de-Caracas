@@ -1,0 +1,32 @@
+.container {
+    padding-bottom: 5%;
+}
+
+.content {
+    width: 90%;
+    margin: 0 auto;
+    height: auto;
+    text-align: center;
+    background: var(--header-bg-color);
+    box-shadow: 0 0 3px black;
+}
+
+.title {
+    text-align: center;
+    padding: 3% 0;
+    text-shadow: 0 0 3px black;
+}
+
+.title_club {
+    padding: 3%;
+    font-weight: 400;
+    font-size: 40px;
+}
+
+.desc {
+    font-size: 22px;
+    padding: 0 5% 5%;
+    font-weight: 300;
+    text-align: left;
+}
+
